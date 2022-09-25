@@ -3,7 +3,7 @@
 ## Welcome!
 
 This repo contains an annotation processor which can be used to automatically generate
-the boilerplate for making a `Logger.Namespaced` for a class.
+the boilerplate for [log.alpha](https://github.com/bowbahdoe/log.alpha).
 
 ## Example Usage
 ```java
