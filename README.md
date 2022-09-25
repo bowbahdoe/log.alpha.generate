@@ -28,7 +28,7 @@ public final class Thing implements ThingLog {
 ```xml
 <dependency>
     <groupId>dev.mccue</groupId>
-    <artifactId>log.alpha</artifactId>
+    <artifactId>log.alpha.generate</artifactId>
     <version>main-SNAPSHOT</version>
 </dependency>
 ```
